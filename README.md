@@ -1,9 +1,11 @@
 ## Lucas Ferrari Lopes
 
 🎓 **Bacharel em Ciência da Computação – Univem (2021–2024)**
+
 📍 Marília – SP
 📧 [lf.ferrarilucas@gmail.com](mailto:lf.ferrarilucas@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/lucas-ferrari-590274211/) | [GitHub](https://github.com/LFLucas)
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-ferrari-590274211/) 
+🧑‍💻 [GitHub](https://github.com/LFLucas)
 
 ---
 
